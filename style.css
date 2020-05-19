@@ -1,0 +1,41 @@
+body
+{
+background-color:#303030;
+font-family:Verdana;
+}
+
+<style>
+.main
+{
+	width:100%; 
+	
+}
+h1
+{
+	text-align:center;
+	margin-top:20px;
+}
+
+.ads
+{ 
+background-color:#696969;
+width:20%;
+height:100%;
+float:left;
+}
+.mid
+{
+width:60%;height:100%;
+background-color:#D3D3D3;
+float:left;
+
+}
+.adsiki
+{
+	width:20%;height:100%;
+	background-color:#696969;
+	float:left;
+	
+}
+
+</style>
